@@ -4,7 +4,7 @@ A categorized community-driven collection of high-quality awesome Psychology cou
 Suggestions and contributions are always welcome!
 
 ## Table Of Contents
-- [Books](#books)  
+- [Psychology Books](#psychology-books)  
 - [Psychology Experiments](#psychology-experiments)
 - [Self-Development](#self-development)
 - [University Courses](#university-courses)
@@ -12,7 +12,7 @@ Suggestions and contributions are always welcome!
   - [Wesleyan University](#wesleyan-university)
   - [Yale](#yale)
   
-## Books
+## Psychology Books
   - [Ernest Becker, "The Denial of Death", 1997](https://www.amazon.com/Denial-Death-Ernest-Becker/dp/0684832402)  
   Winner of the Pulitzer prize in 1974 and the culmination of a life's work, The Denial of Death is Ernest Becker's brilliant and impassioned answer to the "why" of human existence. In bold contrast to the predominant Freudian school of thought, Becker tackles the problem of the vital lie -- man's refusal to acknowledge his own mortality. In doing so, he sheds new light on the nature of humanity and issues a call to life and its living that still resonates more than twenty years after its writing.
   - [Oliver Sacks, "The Man Who Mistook His Wife For A Hat: And Other Clinical Tales", 1998](https://www.amazon.com/Man-Who-Mistook-His-Wife/dp/0684853949)  
