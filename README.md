@@ -4,10 +4,21 @@ A categorized community-driven collection of high-quality awesome Psychology cou
 Suggestions and contributions are always welcome!
 
 ## Table Of Contents
+- [Books](#books)  
 - [University Courses](#university-courses)
   - [MIT](#mit)
   - [Wesleyan University](#wesleyan-university)
   - [Yale](#yale)
+  
+## Books
+  - [How Pleasure Works: The New Science of Why We Like What We Like](https://www.amazon.com/How-Pleasure-Works-Science-Like/dp/0393340007)  
+  Why is an artistic masterpiece worth millions more than a convincing forgery? Pleasure works in mysterious ways, as Paul Bloom reveals in this investigation of what we desire and why. Drawing on a wealth of surprising studies, Bloom investigates pleasures noble and seamy, lofty and mundane, to reveal that our enjoyment of a given thing is determined not by what we can see and touch but by our beliefs about that thing’s history, origin, and deeper nature.
+  - [Just Babies: The Origins of Good and Evil](https://www.amazon.com/Just-Babies-Origins-Good-Evil/dp/0307886859)  
+  A leading cognitive scientist argues that a deep sense of good and evil is bred in the bone.
+  - [The Lucifer Effect: Understanding How Good People Turn Evil](https://www.amazon.com/Lucifer-Effect-Understanding-Good-People/dp/0812974441)  
+  The definitive firsthand account of the groundbreaking research of Philip Zimbardo—the basis for the award-winning film The Stanford Prison Experiment.
+  - [The Man Who Mistook His Wife For A Hat: And Other Clinical Tales](https://www.amazon.com/Man-Who-Mistook-His-Wife/dp/0684853949)  
+  In his most extraordinary book, “one of the great clinical writers of the twentieth century” (The New York Times) recounts the case histories of patients lost in the bizarre, apparently inescapable world of neurological disorders.
 
 ## University Courses
 
