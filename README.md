@@ -12,16 +12,16 @@ Suggestions and contributions are always welcome!
   - [Yale](#yale)
   
 ## Books
+  - [Ernest Becker, "The Denial of Death", 1997](https://www.amazon.com/Denial-Death-Ernest-Becker/dp/0684832402)  
+  Winner of the Pulitzer prize in 1974 and the culmination of a life's work, The Denial of Death is Ernest Becker's brilliant and impassioned answer to the "why" of human existence. In bold contrast to the predominant Freudian school of thought, Becker tackles the problem of the vital lie -- man's refusal to acknowledge his own mortality. In doing so, he sheds new light on the nature of humanity and issues a call to life and its living that still resonates more than twenty years after its writing.
+  - [Oliver Sacks, "The Man Who Mistook His Wife For A Hat: And Other Clinical Tales", 1998](https://www.amazon.com/Man-Who-Mistook-His-Wife/dp/0684853949)  
+  In his most extraordinary book, “one of the great clinical writers of the twentieth century” (The New York Times) recounts the case histories of patients lost in the bizarre, apparently inescapable world of neurological disorders.
   - [Paul Bloom, "How Pleasure Works: The New Science of Why We Like What We Like", 2011](https://www.amazon.com/How-Pleasure-Works-Science-Like/dp/0393340007)  
   Why is an artistic masterpiece worth millions more than a convincing forgery? Pleasure works in mysterious ways, as Paul Bloom reveals in this investigation of what we desire and why. Drawing on a wealth of surprising studies, Bloom investigates pleasures noble and seamy, lofty and mundane, to reveal that our enjoyment of a given thing is determined not by what we can see and touch but by our beliefs about that thing’s history, origin, and deeper nature.
   - [Paul Bloom, "Just Babies: The Origins of Good and Evil", 2014](https://www.amazon.com/Just-Babies-Origins-Good-Evil/dp/0307886859)  
   A leading cognitive scientist argues that a deep sense of good and evil is bred in the bone.
-  - [Ernest Becker, "The Denial of Death", 1997](https://www.amazon.com/Denial-Death-Ernest-Becker/dp/0684832402)  
-  Winner of the Pulitzer prize in 1974 and the culmination of a life's work, The Denial of Death is Ernest Becker's brilliant and impassioned answer to the "why" of human existence. In bold contrast to the predominant Freudian school of thought, Becker tackles the problem of the vital lie -- man's refusal to acknowledge his own mortality. In doing so, he sheds new light on the nature of humanity and issues a call to life and its living that still resonates more than twenty years after its writing.
   - [Philip Zimbardo, "The Lucifer Effect: Understanding How Good People Turn Evil", 2008](https://www.amazon.com/Lucifer-Effect-Understanding-Good-People/dp/0812974441)  
   The definitive firsthand account of the groundbreaking research of Philip Zimbardo—the basis for the award-winning film The Stanford Prison Experiment.
-  - [Oliver Sacks, "The Man Who Mistook His Wife For A Hat: And Other Clinical Tales", 1998](https://www.amazon.com/Man-Who-Mistook-His-Wife/dp/0684853949)  
-  In his most extraordinary book, “one of the great clinical writers of the twentieth century” (The New York Times) recounts the case histories of patients lost in the bizarre, apparently inescapable world of neurological disorders.
 
 ## Psychology Experiments
 - [Harry F. Harlow, "Love in Infant Monkeys", 1959](https://en.wikipedia.org/wiki/Harry_Harlow#Monkey_studies)
