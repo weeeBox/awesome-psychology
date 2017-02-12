@@ -29,10 +29,16 @@ Suggestions and contributions are always welcome!
 - [Philip Zimbardo, "The Stanford Prison Experiment", 1971](https://en.wikipedia.org/wiki/Stanford_prison_experiment)
 
 ## Self-Development
+- [Charles Duhigg, "The Power of Habit: Why We Do What We Do in Life and Business", 2014](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)  
+In The Power of Habit, Pulitzer Prize–winning business reporter Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed.
 - [Kerry Patterson, "Crucial Conversations Tools for Talking When Stakes Are High", 2011](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328)
 Learn how to keep your cool and get the results you want when emotions flare. When stakes are high, opinions vary, and emotions run strong, you have three choices: Avoid a crucial conversation and suffer the consequences; handle the conversation badly and suffer the consequences; or read Crucial Conversations and discover how to communicate best when it matters most. Crucial Conversations gives you the tools you need to step up to life's most difficult and important conversations, say what's on your mind, and achieve the positive resolutions you want.
 - [Roger Fisher, "Getting to Yes: Negotiating Agreement Without Giving In", 2011](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757)  
 Getting to Yes offers a proven, step-by-step strategy for coming to mutually acceptable agreements in every sort of conflict. Thoroughly updated and revised, it offers readers a straight- forward, universally applicable method for negotiating personal and professional disputes without getting angry-or getting taken.
+- [The Great Courses, "The Art of Conflict Management: Achieving Solutions for Life, Work, and Beyond", 2010](https://www.amazon.com/Art-Conflict-Management-Achieving-Solutions/dp/B00DTO4OB0)  
+In 24 lectures brimming with practical tips, tools, and techniques everyone can use to better manage conflict in his or her professional and personal lives, gain the essential skills of conflict management.
+- [The Great Courses, "The Art of Negotiating the Best Deal", 2014](https://www.amazon.com/Art-Negotiating-Best-Deal/dp/B00K2NEINA)  
+Negotiation is a big part of life - from buying a car or a house, taking a new job, or working out a serious conflict. Yet it's easy to believe we're usually at a disadvantage - that others are born negotiators, while we are not. Nothing could be further from the truth. Negotiation is a skill that just about everyone can learn to do well.
 
 ## University Courses
 
