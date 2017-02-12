@@ -5,6 +5,7 @@ Suggestions and contributions are always welcome!
 
 ## Table Of Contents
 - [Books](#books)  
+- [Psychology Experiments](#psychology-experiments)
 - [University Courses](#university-courses)
   - [MIT](#mit)
   - [Wesleyan University](#wesleyan-university)
@@ -21,6 +22,10 @@ Suggestions and contributions are always welcome!
   The definitive firsthand account of the groundbreaking research of Philip Zimbardo—the basis for the award-winning film The Stanford Prison Experiment.
   - [The Man Who Mistook His Wife For A Hat: And Other Clinical Tales](https://www.amazon.com/Man-Who-Mistook-His-Wife/dp/0684853949)  
   In his most extraordinary book, “one of the great clinical writers of the twentieth century” (The New York Times) recounts the case histories of patients lost in the bizarre, apparently inescapable world of neurological disorders.
+
+## Psychology Experiments
+- [Harry F. Harlow, “Love in Infant Monkeys”, 1959](https://en.wikipedia.org/wiki/Harry_Harlow#Monkey_studies)
+- [Philip Zimbardo, "The Stanford Prison Experiment", 1971](https://en.wikipedia.org/wiki/Stanford_prison_experiment)
 
 ## University Courses
 
