@@ -52,6 +52,8 @@ This course is a survey of the scientific study of human nature, including how t
 _Missing Link_
 
 ### Yale
+- [Paul Bloom, "Moralities of Everyday Life", 2013](https://www.coursera.org/learn/moralities/)  
+How can we explain kindness and cruelty? Where does our sense of right and wrong come from? Why do people so often disagree about moral issues? This course explores the psychological foundations of our moral lives.
 - [Paul Bloom, "PSYC 110: Introduction to Psychology", 2007](http://oyc.yale.edu/psychology/psyc-110)  
 What do your dreams mean? Do men and women differ in the nature and intensity of their sexual desires? Can apes learn sign language? Why can’t we tickle ourselves? This course tries to answer these questions and many others, providing a comprehensive overview of the scientific study of thought and behavior. It explores topics such as perception, communication, learning, memory, decision-making, religion, persuasion, love, lust, hunger, art, fiction, and dreams. We will look at how these aspects of the mind develop in children, how they differ across people, how they are wired-up in the brain, and how they break down due to illness and injury.
 - [Kelly D. Brownell, "PSYC 123: The Psychology, Biology And Politics Of Food", 2008](http://oyc.yale.edu/psychology/psyc-123)  
