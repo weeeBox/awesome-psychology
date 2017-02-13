@@ -7,6 +7,7 @@ Suggestions and contributions are always welcome!
 - [Psychology Books](#psychology-books)  
 - [Psychology Experiments](#psychology-experiments)
 - [Self-Development](#self-development)
+- [Ted Talks](#ted-talks)
 - [University Courses](#university-courses)
   - [MIT](#mit)
   - [Wesleyan University](#wesleyan-university)
@@ -40,6 +41,12 @@ Getting to Yes offers a proven, step-by-step strategy for coming to mutually acc
 In 24 lectures brimming with practical tips, tools, and techniques everyone can use to better manage conflict in his or her professional and personal lives, gain the essential skills of conflict management.
 - [The Great Courses, "The Art of Negotiating the Best Deal", 2014](https://www.amazon.com/Art-Negotiating-Best-Deal/dp/B00K2NEINA)  
 Negotiation is a big part of life - from buying a car or a house, taking a new job, or working out a serious conflict. Yet it's easy to believe we're usually at a disadvantage - that others are born negotiators, while we are not. Nothing could be further from the truth. Negotiation is a skill that just about everyone can learn to do well.
+
+## Ted Talks
+- [Jonathan Haidt, "The moral roots of liberals and conservatives", 2008](http://www.ted.com/talks/jonathan_haidt_on_the_moral_mind)  
+Psychologist Jonathan Haidt studies the five moral values that form the basis of our political choices, whether we're left, right or center. In this eye-opening talk, he pinpoints the moral values that liberals and conservatives tend to honor most.
+- [Sam Harris, "Science can answer moral questions", 2010](http://www.ted.com/talks/sam_harris_science_can_show_what_s_right)  
+Questions of good and evil, right and wrong are commonly thought unanswerable by science. But Sam Harris argues that science can — and should — be an authority on moral issues, shaping human values and setting out what constitutes a good life.
 
 ## University Courses
 
