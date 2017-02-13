@@ -26,9 +26,10 @@ Suggestions and contributions are always welcome!
   The definitive firsthand account of the groundbreaking research of Philip Zimbardo—the basis for the award-winning film The Stanford Prison Experiment.
 
 ## Psychology Experiments
+- [Christopher Chabris, "The Invisible Gorilla", 2011](http://www.theinvisiblegorilla.com/videos.html)
 - [Harry F. Harlow, "Love in Infant Monkeys", 1959](https://en.wikipedia.org/wiki/Harry_Harlow#Monkey_studies)
 - [Philip Zimbardo, "The Stanford Prison Experiment", 1971](https://en.wikipedia.org/wiki/Stanford_prison_experiment)
-- [Christopher Chabris, "The Invisible Gorilla", 2011](http://www.theinvisiblegorilla.com/videos.html)
+- [Stanley Milgram, "Milgram Experiment", 1963](http://www.simplypsychology.org/milgram.html)
 
 ## Self-Development
 - [Charles Duhigg, "The Power of Habit: Why We Do What We Do in Life and Business", 2014](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)  
