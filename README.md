@@ -16,6 +16,8 @@ Suggestions and contributions are always welcome!
 ## Psychology Books
   - [Ernest Becker, "The Denial of Death", 1997](https://www.amazon.com/Denial-Death-Ernest-Becker/dp/0684832402)  
   Winner of the Pulitzer prize in 1974 and the culmination of a life's work, The Denial of Death is Ernest Becker's brilliant and impassioned answer to the "why" of human existence. In bold contrast to the predominant Freudian school of thought, Becker tackles the problem of the vital lie -- man's refusal to acknowledge his own mortality. In doing so, he sheds new light on the nature of humanity and issues a call to life and its living that still resonates more than twenty years after its writing.
+  - [Jon Ronson, "The Psychopath Test: A Journey Through the Madness Industry", 2012](https://www.amazon.com/Psychopath-Test-Journey-Through-Industry/dp/1594485755)  
+  In this madcap journey, a bestselling journalist investigates psychopaths and the industry of doctors, scientists, and everyone else who studies them. 
   - [Oliver Sacks, "The Man Who Mistook His Wife For A Hat: And Other Clinical Tales", 1998](https://www.amazon.com/Man-Who-Mistook-His-Wife/dp/0684853949)  
   In his most extraordinary book, “one of the great clinical writers of the twentieth century” (The New York Times) recounts the case histories of patients lost in the bizarre, apparently inescapable world of neurological disorders.
   - [Paul Bloom, "How Pleasure Works: The New Science of Why We Like What We Like", 2011](https://www.amazon.com/How-Pleasure-Works-Science-Like/dp/0393340007)  
