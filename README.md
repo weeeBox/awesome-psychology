@@ -34,6 +34,8 @@ Suggestions and contributions are always welcome!
 - [Stanley Milgram, "Milgram Experiment", 1963](http://www.simplypsychology.org/milgram.html)
 
 ## Self-Development
+- [Carol S. Dweck, "Mindset: The New Psychology of Success", 2007](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)  
+World-renowned Stanford University psychologist Carol Dweck, in decades of research on achievement and success, has discovered a truly groundbreaking idea–the power of our mindset.
 - [Charles Duhigg, "The Power of Habit: Why We Do What We Do in Life and Business", 2014](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)  
 In The Power of Habit, Pulitzer Prize–winning business reporter Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed.
 - [Dale Carnegie, "How to Stop Worrying and Start Living", 1990](https://www.amazon.com/How-Stop-Worrying-Start-Living/dp/0671733354)  
