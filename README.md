@@ -26,6 +26,9 @@ Suggestions and contributions are always welcome!
   A leading cognitive scientist argues that a deep sense of good and evil is bred in the bone.
   - [Philip Zimbardo, "The Lucifer Effect: Understanding How Good People Turn Evil", 2008](https://www.amazon.com/Lucifer-Effect-Understanding-Good-People/dp/0812974441)  
   The definitive firsthand account of the groundbreaking research of Philip Zimbardo—the basis for the award-winning film The Stanford Prison Experiment.
+  - [Richard Dawkins, "The Selfish Gene", 1976](https://www.amazon.com/Selfish-Gene-New-Richard-Dawkins/dp/0192177737)  
+  Richard Dawkins' brilliant reformulation of the theory of natural selection has the rare distinction of having provoked as much excitement and interest outside the scientific community as within it. His theories have helped change the whole nature of the study of social biology, and have forced thousands of readers to rethink their beliefs about life.
+In his internationally bestselling, now classic volume, The Selfish Gene, Dawkins explains how the selfish gene can also be a subtle gene.
 
 ## Psychology Experiments
 - [Christopher Chabris, "The Invisible Gorilla", 2011](http://www.theinvisiblegorilla.com/videos.html)
