@@ -14,6 +14,9 @@ Suggestions and contributions are always welcome!
   - [Yale](#yale)
   
 ## Psychology Books
+  - [Christopher Hitchens, "God Is Not Great: How Religion Poisons Everything", 2009](https://www.amazon.com/God-Not-Great-Religion-Everything/dp/0446697966)  
+  In the tradition of Bertrand Russell's Why I Am Not a Christian and Sam Harris's recent bestseller, The End of Faith, Christopher Hitchens makes the ultimate case against religion. With a close and erudite reading of the major religious texts, he documents the ways in which religion is a man-made wish, a cause of dangerous sexual repression, and a distortion of our origins in the cosmos. With eloquent clarity, Hitchens frames the argument for a more secular life based on science and reason, in which hell is replaced by the Hubble Telescope's awesome view of the universe, and Moses and the burning bush give way to the beauty and symmetry
+of the double helix.
   - [Ernest Becker, "The Denial of Death", 1997](https://www.amazon.com/Denial-Death-Ernest-Becker/dp/0684832402)  
   Winner of the Pulitzer prize in 1974 and the culmination of a life's work, The Denial of Death is Ernest Becker's brilliant and impassioned answer to the "why" of human existence. In bold contrast to the predominant Freudian school of thought, Becker tackles the problem of the vital lie -- man's refusal to acknowledge his own mortality. In doing so, he sheds new light on the nature of humanity and issues a call to life and its living that still resonates more than twenty years after its writing.
   - [Jon Ronson, "The Psychopath Test: A Journey Through the Madness Industry", 2012](https://www.amazon.com/Psychopath-Test-Journey-Through-Industry/dp/1594485755)  
