@@ -7,6 +7,7 @@ Suggestions and contributions are always welcome!
 - [Psychology Books](#psychology-books)  
 - [Psychology Experiments](#psychology-experiments)
 - [Self-Development](#self-development)
+  - [Decision Making](#decision-making)
   - [Discipline](#discipline)
   - [Happiness](#happiness)
   - [Negotiation](#negotiation)
@@ -59,6 +60,12 @@ In this stunning new book, Malcolm Gladwell takes us on an intellectual journey 
 The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.
 - [The Great Courses, "The Art of Conflict Management: Achieving Solutions for Life, Work, and Beyond", 2010](https://www.amazon.com/Art-Conflict-Management-Achieving-Solutions/dp/B00DTO4OB0)  
 In 24 lectures brimming with practical tips, tools, and techniques everyone can use to better manage conflict in his or her professional and personal lives, gain the essential skills of conflict management.
+
+## Decision Making
+- ["Algorithms to Live By: The Computer Science of Human Decisions", Brian Christian, Tom Griffiths, 2016](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)  
+- ["Decisive: How to Make Better Choices in Life and Work", Chip Heath, Dan Heath, 2013](https://www.amazon.com/Decisive-Make-Better-Choices-Life-ebook/dp/B009JU6UPG)  
+- ["Predictably Irrational: The Hidden Forces That Shape Our Decisions", Dr. Dan Ariely, 2009](https://www.amazon.com/Predictably-Irrational-Hidden-Forces-Decisions/dp/0061854549)  
+- ["Thinking, Fast and Slow", Daniel Kahneman, 2011](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637)  
 
 ### Discipline
 - ["Discipline Equals Freedom: Field Manual", Jocko Willink, 2017](https://www.amazon.com/Discipline-Equals-Freedom-Field-Manual/dp/1250156947)
