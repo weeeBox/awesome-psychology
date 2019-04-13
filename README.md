@@ -62,6 +62,7 @@ Getting to Yes offers a proven, step-by-step strategy for coming to mutually acc
 In 24 lectures brimming with practical tips, tools, and techniques everyone can use to better manage conflict in his or her professional and personal lives, gain the essential skills of conflict management.
 - [The Great Courses, "The Art of Negotiating the Best Deal", 2014](https://www.amazon.com/Art-Negotiating-Best-Deal/dp/B00K2NEINA)  
 Negotiation is a big part of life - from buying a car or a house, taking a new job, or working out a serious conflict. Yet it's easy to believe we're usually at a disadvantage - that others are born negotiators, while we are not. Nothing could be further from the truth. Negotiation is a skill that just about everyone can learn to do well.
+- [William H. McRaven, "Make Your Bed: Little Things That Can Change Your Life...And Maybe the World", 2017](https://www.amazon.com/Make-Your-Bed-Little-Things-ebook/dp/B01KFJGT50)
 
 ## Ted Talks
 - [Jonathan Haidt, "The moral roots of liberals and conservatives", 2008](http://www.ted.com/talks/jonathan_haidt_on_the_moral_mind)  
