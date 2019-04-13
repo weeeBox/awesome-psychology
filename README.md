@@ -76,6 +76,7 @@ In 24 lectures brimming with practical tips, tools, and techniques everyone can 
 - ["Difficult Conversations: How to Discuss What Matters Most", Douglas Stone, Bruce Patton, Sheila Heen, Roger Fisher](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447)  
 - ["Getting Past No: Negotiating in Difficult Situations", William L. Ury, 1993](https://www.amazon.com/Getting-Past-Negotiating-Difficult-Situations/dp/0553371312)  
 - ["Getting to Yes: Negotiating Agreement Without Giving In", Roger Fisher, William L. Ury, Bruce Patton, 2011](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757)  
+- ["Never Split the Difference: Negotiating As If Your Life Depended On It", Chris Voss, 2016](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)  
 - ["The Great Courses: The Art of Negotiating the Best Deal", Seth Freeman, 2014](https://www.amazon.com/Art-Negotiating-Best-Deal/dp/B00K2NEINA)  
 
 ## Ted Talks
