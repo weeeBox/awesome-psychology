@@ -7,6 +7,7 @@ Suggestions and contributions are always welcome!
 - [Psychology Books](#psychology-books)  
 - [Psychology Experiments](#psychology-experiments)
 - [Self-Development](#self-development)
+  - [Happiness](#happiness)
   - [Negotiation](#negotiation)
   - [Discipline](#discipline)
 - [Ted Talks](#ted-talks)
@@ -58,6 +59,12 @@ In this stunning new book, Malcolm Gladwell takes us on an intellectual journey 
 The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.
 - [The Great Courses, "The Art of Conflict Management: Achieving Solutions for Life, Work, and Beyond", 2010](https://www.amazon.com/Art-Conflict-Management-Achieving-Solutions/dp/B00DTO4OB0)  
 In 24 lectures brimming with practical tips, tools, and techniques everyone can use to better manage conflict in his or her professional and personal lives, gain the essential skills of conflict management.
+
+### Happiness
+- ["The Antidote: Happiness for People Who Can't Stand Positive Thinking", Oliver Burkeman, 2012](https://www.amazon.com/Antidote-Happiness-People-Positive-Thinking/dp/0865479410)  
+- ["The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life", Mark Manson, 2016](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)  
+- ["Unfu\*k Yourself: Get Out of Your Head and into Your Life", Gary John Bishop, 2017](https://www.amazon.com/Unfu-Yourself-Your-Head-into/dp/0062803832)  
+- ["You Are a Badass®: How to Stop Doubting Your Greatness and Start Living an Awesome Life", Jen Sincero, 2013](https://www.amazon.com/You-Are-Badass%C2%AE-Doubting-Greatness/dp/0762447699)  
 
 ### Negotiation
 - ["Crucial Conversations Tools for Talking When Stakes Are High", Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler, 2011](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328)  
