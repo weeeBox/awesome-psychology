@@ -7,9 +7,9 @@ Suggestions and contributions are always welcome!
 - [Psychology Books](#psychology-books)  
 - [Psychology Experiments](#psychology-experiments)
 - [Self-Development](#self-development)
+  - [Discipline](#discipline)
   - [Happiness](#happiness)
   - [Negotiation](#negotiation)
-  - [Discipline](#discipline)
 - [Ted Talks](#ted-talks)
 - [University Courses](#university-courses)
   - [MIT](#mit)
@@ -60,6 +60,11 @@ The tipping point is that magic moment when an idea, trend, or social behavior c
 - [The Great Courses, "The Art of Conflict Management: Achieving Solutions for Life, Work, and Beyond", 2010](https://www.amazon.com/Art-Conflict-Management-Achieving-Solutions/dp/B00DTO4OB0)  
 In 24 lectures brimming with practical tips, tools, and techniques everyone can use to better manage conflict in his or her professional and personal lives, gain the essential skills of conflict management.
 
+### Discipline
+- ["Discipline Equals Freedom: Field Manual", Jocko Willink, 2017](https://www.amazon.com/Discipline-Equals-Freedom-Field-Manual/dp/1250156947)
+- ["Extreme Ownership: How U.S. Navy SEALs Lead and Win", Jocko Willink, Leif Babin, 2017](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250183863)
+- ["Make Your Bed: Little Things That Can Change Your Life...And Maybe the World", William H. McRaven, 2017](https://www.amazon.com/Make-Your-Bed-Little-Things-ebook/dp/B01KFJGT50)
+
 ### Happiness
 - ["The Antidote: Happiness for People Who Can't Stand Positive Thinking", Oliver Burkeman, 2012](https://www.amazon.com/Antidote-Happiness-People-Positive-Thinking/dp/0865479410)  
 - ["The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life", Mark Manson, 2016](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)  
@@ -72,11 +77,6 @@ In 24 lectures brimming with practical tips, tools, and techniques everyone can 
 - ["Getting Past No: Negotiating in Difficult Situations", William L. Ury, 1993](https://www.amazon.com/Getting-Past-Negotiating-Difficult-Situations/dp/0553371312)  
 - ["Getting to Yes: Negotiating Agreement Without Giving In", Roger Fisher, William L. Ury, Bruce Patton, 2011](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757)  
 - ["The Great Courses: The Art of Negotiating the Best Deal", Seth Freeman, 2014](https://www.amazon.com/Art-Negotiating-Best-Deal/dp/B00K2NEINA)  
-
-### Discipline
-- ["Discipline Equals Freedom: Field Manual", Jocko Willink, 2017](https://www.amazon.com/Discipline-Equals-Freedom-Field-Manual/dp/1250156947)
-- ["Extreme Ownership: How U.S. Navy SEALs Lead and Win", Jocko Willink, Leif Babin, 2017](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250183863)
-- ["Make Your Bed: Little Things That Can Change Your Life...And Maybe the World", William H. McRaven, 2017](https://www.amazon.com/Make-Your-Bed-Little-Things-ebook/dp/B01KFJGT50)
 
 ## Ted Talks
 - [Jonathan Haidt, "The moral roots of liberals and conservatives", 2008](http://www.ted.com/talks/jonathan_haidt_on_the_moral_mind)  
